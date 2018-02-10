@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="d015bcdf-315b-47c8-b300-a84593eb105e" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>false</ReferenceAllAssemblies>
+    <ReferencedAssemblies>
+      <ReferencedAssembly AssemblyName="Common" />
+    </ReferencedAssemblies>
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/DestinationService/DestinationService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="DestinationService1.xsd" MetadataType="Schema" ID="63fb7613-9d54-4821-94b6-80ad0cba5388" SourceId="1" SourceUrl="http://localhost/DestinationService/DestinationService.svc?xsd=xsd2" />
+    <MetadataFile FileName="DestinationService3.xsd" MetadataType="Schema" ID="f356e21b-823c-481c-a06f-89ee1d295bce" SourceId="1" SourceUrl="http://localhost/DestinationService/DestinationService.svc?xsd=xsd3" />
+    <MetadataFile FileName="DestinationService.xsd" MetadataType="Schema" ID="57100fc3-254a-4e00-a036-0f20e0fb0f34" SourceId="1" SourceUrl="http://localhost/DestinationService/DestinationService.svc?xsd=xsd0" />
+    <MetadataFile FileName="DestinationService.disco" MetadataType="Disco" ID="5c58706a-612c-438e-b860-56bc34b553c1" SourceId="1" SourceUrl="http://localhost/DestinationService/DestinationService.svc?disco" />
+    <MetadataFile FileName="DestinationService2.xsd" MetadataType="Schema" ID="1831db5b-2278-4679-b00e-7003e59122a2" SourceId="1" SourceUrl="http://localhost/DestinationService/DestinationService.svc?xsd=xsd1" />
+    <MetadataFile FileName="DestinationService.wsdl" MetadataType="Wsdl" ID="253d7698-a8b5-48b7-b5b7-eacd5f2d04a4" SourceId="1" SourceUrl="http://localhost/DestinationService/DestinationService.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
