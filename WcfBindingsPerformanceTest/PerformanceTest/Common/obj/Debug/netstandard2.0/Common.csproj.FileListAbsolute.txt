@@ -1,9 +1,0 @@
-D:\Code Snippets\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\Common\bin\Debug\netstandard2.0\Common.deps.json
-D:\Code Snippets\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\Common\bin\Debug\netstandard2.0\Common.dll
-D:\Code Snippets\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\Common\bin\Debug\netstandard2.0\Common.pdb
-D:\Code Snippets\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\Common\obj\Debug\netstandard2.0\Common.csprojResolveAssemblyReference.cache
-D:\Code Snippets\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
-D:\Code Snippets\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
-D:\Code Snippets\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
-D:\Code Snippets\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\Common\obj\Debug\netstandard2.0\Common.dll
-D:\Code Snippets\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\Common\obj\Debug\netstandard2.0\Common.pdb

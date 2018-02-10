@@ -1,0 +1,6 @@
+C:\@ GitHub\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\Common\bin\Debug\Common.dll
+C:\@ GitHub\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\Common\bin\Debug\Common.pdb
+C:\@ GitHub\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\@ GitHub\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\@ GitHub\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\Common\obj\Debug\Common.dll
+C:\@ GitHub\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\Common\obj\Debug\Common.pdb

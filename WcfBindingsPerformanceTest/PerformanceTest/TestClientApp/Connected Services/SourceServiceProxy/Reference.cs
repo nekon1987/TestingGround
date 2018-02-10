@@ -26,13 +26,13 @@ namespace TestClientApp.SourceServiceProxy {
         private int AttemptsNumberField;
         
         [System.Runtime.Serialization.OptionalFieldAttribute()]
-        private Common.Enums.EndpointName EndpointNameField;
+        private TestClientApp.SourceServiceProxy.EndpointName EndpointNameField;
         
         [System.Runtime.Serialization.OptionalFieldAttribute()]
         private int SleepTimeMsField;
         
         [System.Runtime.Serialization.OptionalFieldAttribute()]
-        private Common.Enums.TestingStrategy TestingStrategyField;
+        private TestClientApp.SourceServiceProxy.TestingStrategy TestingStrategyField;
         
         [global::System.ComponentModel.BrowsableAttribute(false)]
         public System.Runtime.Serialization.ExtensionDataObject ExtensionData {
@@ -58,7 +58,7 @@ namespace TestClientApp.SourceServiceProxy {
         }
         
         [System.Runtime.Serialization.DataMemberAttribute()]
-        public Common.Enums.EndpointName EndpointName {
+        public TestClientApp.SourceServiceProxy.EndpointName EndpointName {
             get {
                 return this.EndpointNameField;
             }
@@ -84,7 +84,7 @@ namespace TestClientApp.SourceServiceProxy {
         }
         
         [System.Runtime.Serialization.DataMemberAttribute()]
-        public Common.Enums.TestingStrategy TestingStrategy {
+        public TestClientApp.SourceServiceProxy.TestingStrategy TestingStrategy {
             get {
                 return this.TestingStrategyField;
             }
@@ -104,6 +104,34 @@ namespace TestClientApp.SourceServiceProxy {
                 propertyChanged(this, new System.ComponentModel.PropertyChangedEventArgs(propertyName));
             }
         }
+    }
+    
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Runtime.Serialization", "4.0.0.0")]
+    [System.Runtime.Serialization.DataContractAttribute(Name="EndpointName", Namespace="http://schemas.datacontract.org/2004/07/Common.Enums")]
+    public enum EndpointName : int {
+        
+        [System.Runtime.Serialization.EnumMemberAttribute()]
+        BasicHttpEndpoint = 0,
+        
+        [System.Runtime.Serialization.EnumMemberAttribute()]
+        NetTcpEndpoint = 1,
+        
+        [System.Runtime.Serialization.EnumMemberAttribute()]
+        NetNamedPipeBinding = 2,
+    }
+    
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Runtime.Serialization", "4.0.0.0")]
+    [System.Runtime.Serialization.DataContractAttribute(Name="TestingStrategy", Namespace="http://schemas.datacontract.org/2004/07/Common.Enums")]
+    public enum TestingStrategy : int {
+        
+        [System.Runtime.Serialization.EnumMemberAttribute()]
+        SmallPackage = 0,
+        
+        [System.Runtime.Serialization.EnumMemberAttribute()]
+        LargePackage = 1,
+        
+        [System.Runtime.Serialization.EnumMemberAttribute()]
+        VeryLargePackage = 2,
     }
     
     [System.Diagnostics.DebuggerStepThroughAttribute()]
