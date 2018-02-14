@@ -107,7 +107,7 @@ D:\Code Snippets\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\TestCl
 C:\@ GitHub\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\TestClientApp\bin\Debug\TestClientApp.exe.config
 C:\@ GitHub\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\TestClientApp\bin\Debug\TestClientApp.exe
 C:\@ GitHub\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\TestClientApp\bin\Debug\TestClientApp.pdb
-C:\@ GitHub\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\TestClientApp\obj\Debug\TestClientApp.csprojResolveAssemblyReference.cache
 C:\@ GitHub\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\TestClientApp\obj\Debug\TestClientApp.csproj.CoreCompileInputs.cache
 C:\@ GitHub\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\TestClientApp\obj\Debug\TestClientApp.exe
 C:\@ GitHub\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\TestClientApp\obj\Debug\TestClientApp.pdb
+C:\@ GitHub\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\TestClientApp\obj\Debug\TestClientApp.csprojResolveAssemblyReference.cache

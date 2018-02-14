@@ -107,7 +107,7 @@ C:\@ GitHub\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\SourceServi
 C:\@ GitHub\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\SourceService\bin\SourceService.pdb
 C:\@ GitHub\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\SourceService\bin\Common.dll
 C:\@ GitHub\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\SourceService\bin\Common.pdb
-C:\@ GitHub\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\SourceService\obj\Debug\SourceService.csprojResolveAssemblyReference.cache
 C:\@ GitHub\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\SourceService\obj\Debug\SourceService.csproj.CoreCompileInputs.cache
 C:\@ GitHub\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\SourceService\obj\Debug\SourceService.dll
 C:\@ GitHub\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\SourceService\obj\Debug\SourceService.pdb
+C:\@ GitHub\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\SourceService\obj\Debug\SourceService.csprojResolveAssemblyReference.cache

@@ -16,8 +16,8 @@ namespace TestClientApp
             client.GetDataViaEndpoint(new SourceTestRequest()
             {
                 AttemptsNumber = 10,
-                TestingStrategy = TestingStrategy.LargePackage,
-                EndpointName = EndpointName.BasicHttpEndpoint
+                TestingStrategy = TestingStrategy.SmallPackage,
+                EndpointName = EndpointName.NetTcpEndpoint
             });
 
             Console.WriteLine("Press any key to close");

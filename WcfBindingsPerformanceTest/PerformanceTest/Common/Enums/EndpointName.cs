@@ -4,6 +4,7 @@
     {
         BasicHttpEndpoint,
         NetTcpEndpoint,
-        NetNamedPipeBinding
+        NetNamedPipeBinding,
+        WsHttpEndpoint
     }
 }
