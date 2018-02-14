@@ -5,6 +5,7 @@
       <xs:enumeration value="BasicHttpEndpoint" />
       <xs:enumeration value="NetTcpEndpoint" />
       <xs:enumeration value="NetNamedPipeBinding" />
+      <xs:enumeration value="WsHttpEndpoint" />
     </xs:restriction>
   </xs:simpleType>
   <xs:element name="EndpointName" nillable="true" type="tns:EndpointName" />

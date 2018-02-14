@@ -111,3 +111,10 @@ C:\@ GitHub\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\TestClientA
 C:\@ GitHub\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\TestClientApp\obj\Debug\TestClientApp.exe
 C:\@ GitHub\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\TestClientApp\obj\Debug\TestClientApp.pdb
 C:\@ GitHub\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\TestClientApp\obj\Debug\TestClientApp.csprojResolveAssemblyReference.cache
+C:\Users\nekon\Source\Repos\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\TestClientApp\bin\Debug\TestClientApp.exe.config
+C:\Users\nekon\Source\Repos\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\TestClientApp\bin\Debug\TestClientApp.exe
+C:\Users\nekon\Source\Repos\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\TestClientApp\bin\Debug\TestClientApp.pdb
+C:\Users\nekon\Source\Repos\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\TestClientApp\obj\Debug\TestClientApp.csprojResolveAssemblyReference.cache
+C:\Users\nekon\Source\Repos\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\TestClientApp\obj\Debug\TestClientApp.csproj.CoreCompileInputs.cache
+C:\Users\nekon\Source\Repos\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\TestClientApp\obj\Debug\TestClientApp.exe
+C:\Users\nekon\Source\Repos\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\TestClientApp\obj\Debug\TestClientApp.pdb

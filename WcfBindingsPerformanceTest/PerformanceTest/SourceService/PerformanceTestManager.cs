@@ -18,7 +18,9 @@ namespace SourceService
 
             for (var i = 0; i < request.AttemptsNumber; i++)
             {
-                DestinationServiceClient dest = new DestinationServiceClient(request.EndpointName.ToString());
+                    DestinationServiceClient dest = new DestinationServiceClient(request.EndpointName.ToString());
+                //DestinationServiceClient dest = new DestinationServiceClient("BasicHttpsBinding_IDestinationService");
+             
                 var response = dest.GetData(new DestinationTestRequest()
                 {
                     SleepTimeMs = request.SleepTimeMs,

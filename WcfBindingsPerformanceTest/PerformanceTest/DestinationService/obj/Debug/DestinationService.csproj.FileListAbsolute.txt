@@ -112,3 +112,12 @@ C:\@ GitHub\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\Destination
 C:\@ GitHub\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\DestinationService\obj\Debug\DestinationService.csproj.CoreCompileInputs.cache
 C:\@ GitHub\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\DestinationService\obj\Debug\DestinationService.dll
 C:\@ GitHub\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\DestinationService\obj\Debug\DestinationService.pdb
+C:\Users\nekon\Source\Repos\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\DestinationService\bin\DestinationService.dll.config
+C:\Users\nekon\Source\Repos\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\DestinationService\bin\DestinationService.dll
+C:\Users\nekon\Source\Repos\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\DestinationService\bin\DestinationService.pdb
+C:\Users\nekon\Source\Repos\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\DestinationService\bin\Common.dll
+C:\Users\nekon\Source\Repos\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\DestinationService\bin\Common.pdb
+C:\Users\nekon\Source\Repos\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\DestinationService\obj\Debug\DestinationService.csprojResolveAssemblyReference.cache
+C:\Users\nekon\Source\Repos\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\DestinationService\obj\Debug\DestinationService.csproj.CoreCompileInputs.cache
+C:\Users\nekon\Source\Repos\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\DestinationService\obj\Debug\DestinationService.dll
+C:\Users\nekon\Source\Repos\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\DestinationService\obj\Debug\DestinationService.pdb

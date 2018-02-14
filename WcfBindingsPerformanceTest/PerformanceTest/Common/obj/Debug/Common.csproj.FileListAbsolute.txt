@@ -4,3 +4,9 @@ C:\@ GitHub\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\Common\obj\
 C:\@ GitHub\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
 C:\@ GitHub\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\Common\obj\Debug\Common.dll
 C:\@ GitHub\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\Common\obj\Debug\Common.pdb
+C:\Users\nekon\Source\Repos\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\Common\bin\Debug\Common.dll
+C:\Users\nekon\Source\Repos\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\Common\bin\Debug\Common.pdb
+C:\Users\nekon\Source\Repos\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\nekon\Source\Repos\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\nekon\Source\Repos\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\Common\obj\Debug\Common.dll
+C:\Users\nekon\Source\Repos\TestingGround\WcfBindingsPerformanceTest\PerformanceTest\Common\obj\Debug\Common.pdb

@@ -21,15 +21,15 @@
     <ServiceContractMappings />
   </ClientOptions>
   <MetadataSources>
-    <MetadataSource Address="http://localhost/DestinationService/DestinationService.svc" Protocol="http" SourceId="1" />
+    <MetadataSource Address="https://nekon-laptop/DestinationService/DestinationService.svc" Protocol="http" SourceId="1" />
   </MetadataSources>
   <Metadata>
-    <MetadataFile FileName="DestinationService1.xsd" MetadataType="Schema" ID="63fb7613-9d54-4821-94b6-80ad0cba5388" SourceId="1" SourceUrl="http://localhost/DestinationService/DestinationService.svc?xsd=xsd2" />
-    <MetadataFile FileName="DestinationService3.xsd" MetadataType="Schema" ID="f356e21b-823c-481c-a06f-89ee1d295bce" SourceId="1" SourceUrl="http://localhost/DestinationService/DestinationService.svc?xsd=xsd3" />
-    <MetadataFile FileName="DestinationService.xsd" MetadataType="Schema" ID="57100fc3-254a-4e00-a036-0f20e0fb0f34" SourceId="1" SourceUrl="http://localhost/DestinationService/DestinationService.svc?xsd=xsd0" />
-    <MetadataFile FileName="DestinationService.disco" MetadataType="Disco" ID="5c58706a-612c-438e-b860-56bc34b553c1" SourceId="1" SourceUrl="http://localhost/DestinationService/DestinationService.svc?disco" />
-    <MetadataFile FileName="DestinationService2.xsd" MetadataType="Schema" ID="1831db5b-2278-4679-b00e-7003e59122a2" SourceId="1" SourceUrl="http://localhost/DestinationService/DestinationService.svc?xsd=xsd1" />
-    <MetadataFile FileName="DestinationService.wsdl" MetadataType="Wsdl" ID="253d7698-a8b5-48b7-b5b7-eacd5f2d04a4" SourceId="1" SourceUrl="http://localhost/DestinationService/DestinationService.svc?wsdl" />
+    <MetadataFile FileName="DestinationService4.xsd" MetadataType="Schema" ID="befd2851-8d6f-42d0-abe9-cadf6e7e4f24" SourceId="1" SourceUrl="https://nekon-laptop/DestinationService/DestinationService.svc?xsd=xsd0" />
+    <MetadataFile FileName="DestinationService41.xsd" MetadataType="Schema" ID="69089583-8cdf-4c27-a3d0-640030bf9d67" SourceId="1" SourceUrl="https://nekon-laptop/DestinationService/DestinationService.svc?xsd=xsd2" />
+    <MetadataFile FileName="DestinationService1.wsdl" MetadataType="Wsdl" ID="61578abc-3201-47ea-b88a-61cd4929b422" SourceId="1" SourceUrl="https://nekon-laptop/DestinationService/DestinationService.svc?wsdl" />
+    <MetadataFile FileName="DestinationService42.xsd" MetadataType="Schema" ID="03e60b52-3bb2-489b-8661-2987e2a72b3e" SourceId="1" SourceUrl="https://nekon-laptop/DestinationService/DestinationService.svc?xsd=xsd3" />
+    <MetadataFile FileName="DestinationService1.disco" MetadataType="Disco" ID="23b70604-aa61-49f8-8719-5f396beb5fae" SourceId="1" SourceUrl="https://nekon-laptop/DestinationService/DestinationService.svc?disco" />
+    <MetadataFile FileName="DestinationService43.xsd" MetadataType="Schema" ID="e6747365-a3cf-4262-980c-34e24532ab8a" SourceId="1" SourceUrl="https://nekon-laptop/DestinationService/DestinationService.svc?xsd=xsd1" />
   </Metadata>
   <Extensions>
     <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />

@@ -118,6 +118,9 @@ namespace TestClientApp.SourceServiceProxy {
         
         [System.Runtime.Serialization.EnumMemberAttribute()]
         NetNamedPipeBinding = 2,
+        
+        [System.Runtime.Serialization.EnumMemberAttribute()]
+        WsHttpEndpoint = 3,
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Runtime.Serialization", "4.0.0.0")]

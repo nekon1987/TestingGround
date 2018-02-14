@@ -17,7 +17,7 @@ namespace TestClientApp
             {
                 AttemptsNumber = 10,
                 TestingStrategy = TestingStrategy.SmallPackage,
-                EndpointName = EndpointName.NetTcpEndpoint
+                EndpointName = EndpointName.WsHttpEndpoint
             });
 
             Console.WriteLine("Press any key to close");
