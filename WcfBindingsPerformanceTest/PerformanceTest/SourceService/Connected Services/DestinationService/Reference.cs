@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SourceService.DestinationService {
+namespace DestinationService {
     using System.Runtime.Serialization;
     using System;
     
@@ -156,19 +156,19 @@ namespace SourceService.DestinationService {
     public interface IDestinationService {
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IDestinationService/GetData", ReplyAction="http://tempuri.org/IDestinationService/GetDataResponse")]
-        SourceService.DestinationService.DestinationTestResponse GetData(SourceService.DestinationService.DestinationTestRequest composite);
+        DestinationService.DestinationTestResponse GetData(DestinationService.DestinationTestRequest composite);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IDestinationService/GetData", ReplyAction="http://tempuri.org/IDestinationService/GetDataResponse")]
-        System.Threading.Tasks.Task<SourceService.DestinationService.DestinationTestResponse> GetDataAsync(SourceService.DestinationService.DestinationTestRequest composite);
+        System.Threading.Tasks.Task<DestinationService.DestinationTestResponse> GetDataAsync(DestinationService.DestinationTestRequest composite);
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
-    public interface IDestinationServiceChannel : SourceService.DestinationService.IDestinationService, System.ServiceModel.IClientChannel {
+    public interface IDestinationServiceChannel : DestinationService.IDestinationService, System.ServiceModel.IClientChannel {
     }
     
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
-    public partial class DestinationServiceClient : System.ServiceModel.ClientBase<SourceService.DestinationService.IDestinationService>, SourceService.DestinationService.IDestinationService {
+    public partial class DestinationServiceClient : System.ServiceModel.ClientBase<DestinationService.IDestinationService>, DestinationService.IDestinationService {
         
         public DestinationServiceClient() {
         }
@@ -189,11 +189,11 @@ namespace SourceService.DestinationService {
                 base(binding, remoteAddress) {
         }
         
-        public SourceService.DestinationService.DestinationTestResponse GetData(SourceService.DestinationService.DestinationTestRequest composite) {
+        public DestinationService.DestinationTestResponse GetData(DestinationService.DestinationTestRequest composite) {
             return base.Channel.GetData(composite);
         }
         
-        public System.Threading.Tasks.Task<SourceService.DestinationService.DestinationTestResponse> GetDataAsync(SourceService.DestinationService.DestinationTestRequest composite) {
+        public System.Threading.Tasks.Task<DestinationService.DestinationTestResponse> GetDataAsync(DestinationService.DestinationTestRequest composite) {
             return base.Channel.GetDataAsync(composite);
         }
     }
